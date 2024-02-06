@@ -1,1 +1,6 @@
-d
+{
+  "Enabled": true,
+  "ServerPort": 28500,
+  "ServerIP": "85.90.206.32",
+  "ServerPassword": "forty1850s"
+}
